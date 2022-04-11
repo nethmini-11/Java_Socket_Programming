@@ -1,3 +1,4 @@
                                                   Java_Socket_Programming
 
-    Peer to peer chat and broadcasting feature
+    1.Peer to peer chating 
+    2.Broadcasting feature
